@@ -1,2 +1,4 @@
 # Phishguard-AI
-Phishing URL detector-Built by BIT Sindri Cybersecurity Student 
+I am a Cybersecurity student at BIT Sindri.
+This project detects phishing URLs.
+Currently learning Flask + Gemini Integration 
